@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.message {
+  background-color: yellow;
+  color: rgb(0, 0, 0);
+  border: #282c34 solid  2px;
+  border-radius: 10px;
+  margin: 10px;
+}
